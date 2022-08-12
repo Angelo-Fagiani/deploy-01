@@ -1,0 +1,5 @@
+server:
+  port: 7070
+
+myCustomVarTree:
+  devName: Angelo Fagiani
